@@ -1,3 +1,3 @@
 #intro
 - takuji funao
-- 自己紹介です。
+- 自己紹介です
